@@ -1,0 +1,16 @@
+*{cursor: none;}
+.cursore{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 60px;
+    height: 60px;
+   
+    
+    z-index: 2000;
+}
+
+body{
+    background-color: white;
+    overflow: hidden;
+}
